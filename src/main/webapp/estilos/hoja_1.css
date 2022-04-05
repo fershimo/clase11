@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 28, 2022, 10:47:41 AM
+    Author     : XPC
+*/
+
+.celeste{
+    background-color: aquamarine;
+}
+.azul{
+    background-color: lightcyan;
+}
+.grisoscuro{
+    background-color: black;
+}
+.verde{
+    background-color: greenyellow;
+}
+.amarillo{
+    background-color: yellow;
+}
+.espacio{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.espacio2{
+    margin-left: 50px;
+     margin-top: 10px;
+}
+.gris{
+    background-color: lightgray
+}
+.tamano{
+   width: 420px;
+   height: 320px;
+   margin: 30px; /* margen, impide que las imagenes se solapen */
+}
+.arial{
+    
+}
+.textotamano{
+    text-align: center;
+}
+.negrita{
+    font-weight: bold;
+}
+.subrayar{
+    text-decoration: underline;
+}
+.h1{
+    font-family: Arial,sans-serif;
+    
+}
